@@ -19,3 +19,8 @@ $ git push or git push origin master
 # put in username & passwords
 ```
 ## git markdown for cheatsheet by google
+
+### No more username & password input for every push
+```sh
+$ git remote set-url origin git@github.com:your username/yourReponame.git
+$				      SamKC/Gitcommands.git
